@@ -136,13 +136,21 @@ Welcome to the JavaScript section of Web Development Made Easy!
 
 ### Introduction to JavaScript
 
-*Content coming soon...*
+# JavaScript was made by Brendan Eich and was inspired from mocha. JavaScript is really good in frontend Web Pages and is really popularized into categories.
+- Next.js
+- Node.js
+And there was a former rule of JavaScript "Anything that requires javascript. will be later written in Javascript."
 
 ### Setting Up Your Environment
+For setting up an environtment to coding JavaScript. you need is :-
+- Install npm and Node.js
+- Get a good code editor such as Visual Studio 2026 or VS Code
 
 #### Browser Console
 
-*Content coming soon...*
+Browser consoles are instructions which you give to an computer [AKA code]
+and a computer following those instructions [Running a Code]
+such as an example later on i am going to be creating
 
 #### Code Editors
 
